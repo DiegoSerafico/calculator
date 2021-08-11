@@ -22,7 +22,7 @@ _This website is to build a calculator using JavaScript functions gethering info
 
 ## Known Bugs
 
-* _Not finished yet (only addition works)_
+* _Not finished yet_
 
 ## License
 
